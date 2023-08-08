@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @J0O3isDumb
 - 👀 I’m interested in playing minecraft and making custom content to minecraft
 - 🌱 I’m currently learning how to live 
-- 💞️ I’m looking to collaborate with minecraft marketplace
 - 📫 Contact me via discord 
 
 <!---
